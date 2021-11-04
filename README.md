@@ -9,7 +9,7 @@
 * Save them in your favorites
 * Delete favourites 
 
-# Installation of this application on your local machine
+# Installation
 * ``cd`` into the backend/main folder of this application
 * type in ``npm install`` into your terminal
 * type in ``npm start`` into your terminal to run the backend of the application
