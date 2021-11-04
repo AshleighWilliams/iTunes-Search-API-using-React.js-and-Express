@@ -1,0 +1,89 @@
+/*external stylesheet for app.js, header.js, search.js, landingpage.js and favourites.js.*/
+
+/*header navbar style*/
+.navbar-div {
+  background-color: black;
+  margin: 20px;
+  border: 5px solid black;
+}
+/*above styles the navbar div.*/
+
+.nav-item {
+  color: white;
+}
+/*above styles the each nav items.*/
+
+li {
+  text-decoration: none;
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 10px;
+}
+/*above styles the the nav item listed.*/
+/*header navbar style end*/
+
+/*landing page*/
+.home-screen-background {
+  background-color: white;
+  width: 100%;
+  position: fixed;
+  background-size: cover;
+  background-position: 40%;
+}
+/*above styles the landingpage.js background.*/
+
+.home-screen-content{
+    position: fixed;
+    width: 100%;
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.3em;
+}
+/*above styles the landingpage.js content.*/
+/*landing page style end*/
+
+/*search style*/
+.search-screen-background {
+  background-color: white;
+  color: black;
+  width: 100%;
+  background-size: cover;
+  position: fixed;
+  text-align: center;
+}
+/*above styles the search.js background.*/
+ 
+.search-screen-content {
+  position: absolute;
+  width: 100%;
+  background-color: white;
+  color: black;
+}
+/*above styles the search.js content.*/
+/*search style end*/
+
+.landing-page, .search-page  { 
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+/*below styles the header in search.js*/
+.below-header  { 
+color: white;
+font-size: 1.7em;
+text-shadow: 0.5px 0.5px black;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+/*below styles headers in all components.*/
+header {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-size: 1.7em;
+  text-shadow: 0.5px 0.5px black;
+}
