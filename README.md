@@ -1,6 +1,7 @@
 # iTunes Search API Application using Reactjs and Express
 # Full Stack Web Application using React and Express
 * This project was part of a Full Stack Web Developer course at HyperionDev.
+* View demo: https://itunessearchwithapi.herokuapp.com/ 
 
 # Usage
 * Itunes Search Api created for searching iTunes
@@ -27,5 +28,3 @@
 ## Security
 * This app uses the npm helmet module for security
 * API keys hide in an .env file
-
-### A link to a live demo of this application
